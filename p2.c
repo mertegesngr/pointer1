@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<stdlib.h>
 
-int yerDegistir (int *a,int *b){
+void yerDegistir (int *a,int *b){
 int gecici ; 
 gecici =*b; 
 *b =*a ;
